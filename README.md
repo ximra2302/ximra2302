@@ -1,17 +1,28 @@
-### Hi there Ximena Ramírez 👋
-<img src="https://imgur.com/a/DRyThNP">
+<div align="center">
+  <h1> Hi! there Ximena Ramírez 👋 </h1>
+</div>
+<img src="https://i.imgur.com/c5WF7rE.png">
 
-<!--
-**ximra2302/ximra2302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/ximra2302?logo=github&color=%23c7b5d9)
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fximraux&style=flat-square&logo=twitter&logoColor=%23c7b5d9&color=%23c7b5d9)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 💻Passionate front end developer
+- 👍 I have 6 years of experience as a designer 
+- 📓 Currently studying at Oracle's One and UX UI at Google
+- 📺 I watch anime in my free time
+- 😸😽 Mother of Cats
+<br>
+
+
+<br>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ximra2302">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ximra2302&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ximra2302&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
