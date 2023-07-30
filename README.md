@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/c5WF7rE.png">
 
 ![GitHub followers](https://img.shields.io/github/followers/ximra2302?logo=github&color=%23c7b5d9)
-![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fximraux&style=flat-square&logo=twitter&logoColor=%23c7b5d9&color=%23c7b5d9)
+![Twitter URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fximraux&style=flat-square&logo=twitter&logoColor=%23c7b5d9&label=Mi%20Twitter&color=%23c7b5d9&link=https%3A%2F%2Ftwitter.com%2Fximraux)
 
 
 
